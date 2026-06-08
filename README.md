@@ -1,6 +1,6 @@
 # Task 1 - Basic Network Scanning with Nmap
 
-## Objective
+# Objective
 
 To perform a network scan on a local machine using Nmap and identify open ports and running services.
 
